@@ -15,5 +15,5 @@ Se importan las librerías necesarias para trabajar en las secciones 2 y 3 encon
 #### 2. Datos históricos del clima ☀: 
 - En la sección dos, se aborda un dataset ficticio con datos referentes a una base de datos meteorológica, en el cuál, se analiza variación de temperatura anual. 
 
-### 3. Iris Flower Dataset 🌺:
+#### 3. Iris Flower Dataset 🌺:
 - En la sección tres, encontramos un dataset utilizado frecuentemente en data science, conocido como *Iris dataflower set*. A través de esta sección, se analiza y compara las diferencias morfológicas entre 3 especies pertenecientes al género de plantas *Iris*.
